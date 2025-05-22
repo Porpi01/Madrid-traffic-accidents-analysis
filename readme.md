@@ -71,8 +71,8 @@ Para replicar el análisis:
 Clona este repositorio:
 
 
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+git clone https://github.com/Porpi01/Madrid-traffic-accidents-analysis.giy
 cd nombre_del_repositorio
 Asegúrate de tener los datos traffic_accidents_clean.csv en la carpeta data/.
-Abre el Jupyter Notebook EDA_Siniestralidad_Mortal_Madrid.ipynb en tu entorno preferido (Jupyter Lab, Jupyter Notebook, VS Code).
+Abre el Jupyter Notebook Madrid_traffic_Accidents.ipynb en tu entorno preferido (Jupyter Lab, Jupyter Notebook, VS Code).
 Ejecuta las celdas secuencialmente para realizar el EDA y generar las visualizaciones.
